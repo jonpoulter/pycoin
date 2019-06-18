@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+*.pyc
+blockchain.txt
+wallet.txt
+blockchain.bin
